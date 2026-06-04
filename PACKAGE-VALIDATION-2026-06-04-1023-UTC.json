@@ -1,0 +1,248 @@
+{
+  "canonical_public_benchmark": "https://packrift.github.io/packaging-price-size-benchmark/",
+  "checksum_entries": 2638,
+  "csv_data_rows": 2510,
+  "dimensioned_records": 2510,
+  "excluded_artifact_classes": [
+    ".git",
+    ".vercel",
+    "__pycache__",
+    "build_packaging_price_size_benchmark.py",
+    "node_modules",
+    "post_publish_packaging_price_size_benchmark.py",
+    "run_cube_followup_2026_06_01.mjs",
+    "STATUS-",
+    "post-publish-",
+    "vercel-",
+    "agentmanifest-",
+    "indexnow-",
+    "candidate-ledger-",
+    "technical-profile-",
+    "thirdparty-",
+    "public-readback-",
+    ".log"
+  ],
+  "html_files": 2609,
+  "json_jsonld_files": 13,
+  "json_parse_errors": [],
+  "jsonl_rows": 2510,
+  "live_byte_parity_samples": [
+    {
+      "byte_match": true,
+      "live_sha256": "d3ebfaf53d8ed7d72247ecbede85d797acb221e90cbea2feae030a8defd36363",
+      "local_sha256": "d3ebfaf53d8ed7d72247ecbede85d797acb221e90cbea2feae030a8defd36363",
+      "rel": "index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "42c3a03519cb44ba87934e33f3d14f0624ce2df68bc69c13d3c2d6cabf8c67bb",
+      "local_sha256": "42c3a03519cb44ba87934e33f3d14f0624ce2df68bc69c13d3c2d6cabf8c67bb",
+      "rel": "sitemap.xml",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/sitemap.xml",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "e057b86cb838ed6941c9d3bdc04af53ce95abba2f5df82a33fde2f34d5c1f2a3",
+      "local_sha256": "e057b86cb838ed6941c9d3bdc04af53ce95abba2f5df82a33fde2f34d5c1f2a3",
+      "rel": "robots.txt",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/robots.txt",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "a1d6810c7f995f6a83fec6ad6c826062488cf8e816c007a1eeb8cf4e0ba9efdb",
+      "local_sha256": "a1d6810c7f995f6a83fec6ad6c826062488cf8e816c007a1eeb8cf4e0ba9efdb",
+      "rel": "llms.txt",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/llms.txt",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "1d970d0a79d85d1eca12108cf02f1df745d32e52e6991d4114bf2bc61176b7e6",
+      "local_sha256": "1d970d0a79d85d1eca12108cf02f1df745d32e52e6991d4114bf2bc61176b7e6",
+      "rel": "llms-full.txt",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/llms-full.txt",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "d46bf6e557da58f0ea1a32d15f7babb5a066e3009e0bad531231a391384424fa",
+      "local_sha256": "d46bf6e557da58f0ea1a32d15f7babb5a066e3009e0bad531231a391384424fa",
+      "rel": "data/stats.json",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/data/stats.json",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "eac044c53e4ec819d725469cdb741bf68c746fd34b214acf43449a6b37a12f60",
+      "local_sha256": "eac044c53e4ec819d725469cdb741bf68c746fd34b214acf43449a6b37a12f60",
+      "rel": "data/price-size-benchmark.jsonl",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/data/price-size-benchmark.jsonl",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "696f8b68a6c0452f828045c527ad01c4482c2f2c7e6c98f8d6e81bc572fd9587",
+      "local_sha256": "696f8b68a6c0452f828045c527ad01c4482c2f2c7e6c98f8d6e81bc572fd9587",
+      "rel": ".well-known/agent-manifest.json",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/.well-known/agent-manifest.json",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "2aaa583c5b64a82e53074d92b92089119b485738293d03e4c527ddd249b37242",
+      "local_sha256": "2aaa583c5b64a82e53074d92b92089119b485738293d03e4c527ddd249b37242",
+      "rel": "families/boxes/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/families/boxes/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "bd54fcf01267528f386164e5d74b25242c41fb42d6a7c58de0399eb1cf463d48",
+      "local_sha256": "bd54fcf01267528f386164e5d74b25242c41fb42d6a7c58de0399eb1cf463d48",
+      "rel": "product-types/boxes-corrugated/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/product-types/boxes-corrugated/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "55f09aeec865ef45423eb1eb2663970d3b1a6ca3ccc2b8c1d955c1e8cdebe836",
+      "local_sha256": "55f09aeec865ef45423eb1eb2663970d3b1a6ca3ccc2b8c1d955c1e8cdebe836",
+      "rel": "price-bands/25-to-49/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/price-bands/25-to-49/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "2bda4d0cc7d91b3054c86117bbb3edd718763af1567de53514a559d76f16038a",
+      "local_sha256": "2bda4d0cc7d91b3054c86117bbb3edd718763af1567de53514a559d76f16038a",
+      "rel": "volume-bands/512-to-999-cu-in/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/volume-bands/512-to-999-cu-in/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "fe6b315e994642b2649f38f0418a2835b71eac89c961090e651e76dbcac4ea73",
+      "local_sha256": "fe6b315e994642b2649f38f0418a2835b71eac89c961090e651e76dbcac4ea73",
+      "rel": "benchmarks/boxes--1000-to-1727-cu-in/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/benchmarks/boxes--1000-to-1727-cu-in/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "f7592479f163c4681ada5343c084cced47c2c22e5a35e183e1d9e4a90f8ae3f7",
+      "local_sha256": "f7592479f163c4681ada5343c084cced47c2c22e5a35e183e1d9e4a90f8ae3f7",
+      "rel": "skus/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/skus/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "b973f114119edebc6a41af880ae55f6ae30eef08d56a10f572684e699b93dcea",
+      "local_sha256": "b973f114119edebc6a41af880ae55f6ae30eef08d56a10f572684e699b93dcea",
+      "rel": "skus/10103-f11e6f87/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/skus/10103-f11e6f87/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "fe5e36cc6c6dbf4550a368d04a4c54a1ca8ff05ffdf7170ac89a31edbabfed90",
+      "local_sha256": "fe5e36cc6c6dbf4550a368d04a4c54a1ca8ff05ffdf7170ac89a31edbabfed90",
+      "rel": "skus/10108-d2e02709/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/skus/10108-d2e02709/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "8f2d9b8ab3f401547156d944b05472d96e9ad9a773a6be78e6b86003237cdad9",
+      "local_sha256": "8f2d9b8ab3f401547156d944b05472d96e9ad9a773a6be78e6b86003237cdad9",
+      "rel": "skus/10212ssfol-fa8684f0/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/skus/10212ssfol-fa8684f0/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "ec9b964e8ba6e422b3b2bca0995501755d4db95a6d987b4703d1da0d8eea3c07",
+      "local_sha256": "ec9b964e8ba6e422b3b2bca0995501755d4db95a6d987b4703d1da0d8eea3c07",
+      "rel": "skus/1044-e075b8e2/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/skus/1044-e075b8e2/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "507867826c4979de30fac0139d34d661ef6e7db7cfca4fbdb064aa7315637051",
+      "local_sha256": "507867826c4979de30fac0139d34d661ef6e7db7cfca4fbdb064aa7315637051",
+      "rel": "skus/1054-b12b38d5/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/skus/1054-b12b38d5/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "6b91515e95a0c3c38a7aad716ee0c9f860f7cbb69b21683dd3fdc96be1237699",
+      "local_sha256": "6b91515e95a0c3c38a7aad716ee0c9f860f7cbb69b21683dd3fdc96be1237699",
+      "rel": "skus/1055-38a93b96/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/skus/1055-38a93b96/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "e2c759186a531597636b1cfb049db1ccf4f79bdc037b5ac92f03848902c83097",
+      "local_sha256": "e2c759186a531597636b1cfb049db1ccf4f79bdc037b5ac92f03848902c83097",
+      "rel": "skus/1063-98431d73/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/skus/1063-98431d73/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "c0e45d2ba2c843dba7023623f25536890a33526d1d7220f6402fba354f83aa4c",
+      "local_sha256": "c0e45d2ba2c843dba7023623f25536890a33526d1d7220f6402fba354f83aa4c",
+      "rel": "skus/1064-0bdca21e/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/skus/1064-0bdca21e/",
+      "x_robots_tag": null
+    },
+    {
+      "byte_match": true,
+      "live_sha256": "d6bca4fa2d393c592ef30f0912389b7a30a05735ffa409b4701b4e7ba606ecfa",
+      "local_sha256": "d6bca4fa2d393c592ef30f0912389b7a30a05735ffa409b4701b4e7ba606ecfa",
+      "rel": "skus/1065-57ab71f4/index.html",
+      "status": 200,
+      "url": "https://packrift.github.io/packaging-price-size-benchmark/skus/1065-57ab71f4/",
+      "x_robots_tag": null
+    }
+  ],
+  "private_marker_hits": [],
+  "repo_file_count_before_validation": 2637,
+  "repo_file_count_final": 2639,
+  "sitemap_missing_files": [],
+  "sitemap_unique_urls": 2628,
+  "sitemap_urls": 2628,
+  "source_public_corpus": "Packrift.github.io packaging-price-size-benchmark public corpus after 2026-06-04 stats source repair",
+  "stats_source": "Packrift public catalog product graph snapshot",
+  "status": "pass",
+  "validated_at": "2026-06-04T10:27:26+00:00"
+}

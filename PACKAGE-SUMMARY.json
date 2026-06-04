@@ -1,0 +1,12 @@
+{
+  "boundary": "Public benchmark corpus only; excludes local build, deployment, proof, credentials, private commerce, private freight, supplier-cost, margin, customer, order, cart, and payment artifacts.",
+  "canonical_public_benchmark": "https://packrift.github.io/packaging-price-size-benchmark/",
+  "csv_data_rows": 2510,
+  "dimensioned_records": 2510,
+  "generated_at": "2026-06-04T10:23:00Z",
+  "html_files": 2609,
+  "jsonl_rows": 2510,
+  "name": "Packrift Packaging Price Size Benchmark Source Package",
+  "sitemap_urls": 2628,
+  "stats_source": "Packrift public catalog product graph snapshot"
+}
